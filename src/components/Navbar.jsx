@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-2">
           <img src="/college-mono.gif" alt="College Logo" className="h-10 w-10 rounded-md" />
           <span className="text-white md:text-2xl text-xl font-bold">
-            Sri Sathya Sai College for Women, Bhopal
+           Library Management System 
           </span>
         </div>
 
